@@ -1,7 +1,5 @@
 ### Hi there 👋, this is my GitHub profile!
 
-## asdas
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hay00&theme=nord&layout=compact&langs_count=15)
 
 ![Hay00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hay00&show_icons=true&theme=nord)
