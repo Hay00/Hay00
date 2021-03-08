@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hi there 👋, this is my GitHub profile!
+
+## asdas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hay00&theme=nord&layout=compact&langs_count=15)
+
+![Hay00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hay00&show_icons=true&theme=nord)
+
 
 <!--
 **Hay00/Hay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Here are some ideas to get you started:
 
