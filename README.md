@@ -1,8 +1,10 @@
 ### Hi there 👋, this is my GitHub profile!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hay00&theme=nord&layout=compact&langs_count=15)
+<div>
+  
 
 ![Hay00's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hay00&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hay00&theme=nord&layout=compact&langs_count=15)
 
 
 <!--
