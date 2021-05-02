@@ -1,5 +1,3 @@
-### Hi there 👋, this is my GitHub profile!
-
 <h2 align="center">Hello there 👋, I'm Vinicios, welcome to my GitHub profile</h2>
 
 ***
